@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\jenkinsdockerworkspace\workspace\Exemplo CICD\WebAppPipeline\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-12-11T10:35:19.2451471Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
